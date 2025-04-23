@@ -24,7 +24,7 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 
 ## Program:
 ### Name: Vikaash K S
-### Register NUmber: 212223240179
+### Register Number: 212223240179
 ```
 import cv2
 import numpy as np
